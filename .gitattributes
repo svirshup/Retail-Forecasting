@@ -1,0 +1,8 @@
+Data/store_id_relation.csv filter=lfs diff=lfs merge=lfs -text
+Data/air_reserve.csv filter=lfs diff=lfs merge=lfs -text
+Data/air_store_info.csv filter=lfs diff=lfs merge=lfs -text
+Data/air_visit_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/date_info.csv filter=lfs diff=lfs merge=lfs -text
+Data/hpg_reserve.csv filter=lfs diff=lfs merge=lfs -text
+Data/hpg_store_info.csv filter=lfs diff=lfs merge=lfs -text
+Data/sample_submission.csv filter=lfs diff=lfs merge=lfs -text
